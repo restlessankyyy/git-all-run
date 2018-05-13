@@ -1,4 +1,4 @@
-Git-shell sctipt file
+Git-shell script file
 Use : Modify : Sell !!!
 
 # git-all-run
